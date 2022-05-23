@@ -1,0 +1,19 @@
+.mt-0 {
+    margin-top: 10 ;
+}
+.card-img-top{
+    height: 300px;
+    width: 90%;
+
+}
+.card{
+    height: 120px;
+    
+}
+.card-body{
+    background-color: #ecf0f1;
+}
+body{
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/011/428/098/large/graham-tattersall-flat-background-mountains.jpg?1529525121");
+
+}
